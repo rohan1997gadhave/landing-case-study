@@ -1,5 +1,5 @@
-### Project Name: Lending Club Case Study
-# Table of Contents
+# Project Name: Lending Club Case Study
+## Table of Contents
 * General Info
 * Technologies Used
 * Conclusions
